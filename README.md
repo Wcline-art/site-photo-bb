@@ -3,7 +3,7 @@ _Site_Photo_BB_
 
 Création d'un site web pour une photographe professionnelle spécialisée pour les bébés et leurs familles.
 Projet fictif dans le cadre de l'apprentissage au sein de Yes We Web formation.
- ![Screenshot](screenshot.png)
+ ![Screenshot](https://raw.githubusercontent.com/Wcline-art/site-photo-bb/master/Screenshot%20readme.png)
 
 ## Objectifs
 
